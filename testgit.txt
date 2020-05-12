@@ -4,3 +4,4 @@ git commit -m "comentário"
 git push
 git pull
 ok
+ok2
