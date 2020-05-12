@@ -1,1 +1,4 @@
-Marcos Mestre dos Magos Tavares
+git add arquivo.py
+git status
+git commit -m "comentário"
+git push
